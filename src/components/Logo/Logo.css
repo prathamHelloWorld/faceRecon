@@ -1,0 +1,10 @@
+.box{
+    background:linear-gradient(to right,rgba(73, 5, 20,0.8),rgba(197, 30, 30,0.8));
+    position: relative;
+}
+.logo{
+    position: absolute;
+    height: 10rem;
+    top: 0%;
+    left: 0%;
+}
